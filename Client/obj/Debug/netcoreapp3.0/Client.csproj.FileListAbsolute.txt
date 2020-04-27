@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Client.exe
+C:\Users\User\Desktop\Tema2\Client\obj\Debug\netcoreapp3.0\Client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tema2\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tema2\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfo.cs
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Client.deps.json
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.json
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.dev.json
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Client.dll
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Client.pdb
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Grpc.Core.Api.dll
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Grpc.Net.Client.dll
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Grpc.Net.Common.dll
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Tema2\Client\obj\Debug\netcoreapp3.0\Client.csproj.CopyComplete
+C:\Users\User\Desktop\Tema2\Client\obj\Debug\netcoreapp3.0\Client.dll
+C:\Users\User\Desktop\Tema2\Client\obj\Debug\netcoreapp3.0\Client.pdb
+C:\Users\User\Desktop\Tema2\Client\bin\Debug\netcoreapp3.0\Google.Protobuf.dll

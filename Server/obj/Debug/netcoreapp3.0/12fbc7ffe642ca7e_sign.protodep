@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.0/Sign.cs \
+obj\Debug\netcoreapp3.0/SignGrpc.cs: Protos/sign.proto

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Tema2\SpringService\bin\Debug\netstandard2.0\SpringService.deps.json
+C:\Users\User\Desktop\Tema2\SpringService\bin\Debug\netstandard2.0\SpringService.dll
+C:\Users\User\Desktop\Tema2\SpringService\bin\Debug\netstandard2.0\SpringService.pdb
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SpringService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SpringService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SpringService.AssemblyInfo.cs
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SpringService.dll
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SpringService.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Tema2\SpringService\bin\Debug\netstandard2.0\SeasonsService.deps.json
+C:\Users\User\Desktop\Tema2\SpringService\bin\Debug\netstandard2.0\SeasonsService.dll
+C:\Users\User\Desktop\Tema2\SpringService\bin\Debug\netstandard2.0\SeasonsService.pdb
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SeasonsService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SeasonsService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SeasonsService.AssemblyInfo.cs
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SeasonsService.dll
+C:\Users\User\Desktop\Tema2\SpringService\obj\Debug\netstandard2.0\SeasonsService.pdb
